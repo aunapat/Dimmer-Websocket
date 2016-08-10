@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/Naruepat/Documents/socket2/node_modules/react-native/React/Base/RCTErrorCustomizer.h

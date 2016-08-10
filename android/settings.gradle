@@ -1,0 +1,3 @@
+rootProject.name = 'socket2'
+
+include ':app'
